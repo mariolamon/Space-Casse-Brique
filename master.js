@@ -29,8 +29,8 @@ let canvas = document.getElementById('canvas'),
 		score = 0,
 		init;
 
-canvas.addEventListener("mousemove", trackPosition, true);
-canvas.addEventListener("mousedown", click, true);
+//canvas.addEventListener("mousemove", trackPosition, true);
+//canvas.addEventListener("mousedown", click, true);
 
 canvas.height = H;
 canvas.width = W;
